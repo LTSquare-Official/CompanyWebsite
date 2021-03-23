@@ -1,0 +1,6 @@
+Company Name: LTSquare
+Webistre : https://ltsquare.de
+Author: Sharan Kumar Kolluru & Harshitha Rathod
+
+Version: 1.0.0
+  - Initial Release
